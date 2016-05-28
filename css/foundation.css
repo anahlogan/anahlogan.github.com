@@ -155,9 +155,9 @@ float: none !important; }
 
 #mc_embed_signup input[type="submit"] {
       font-family: 'socicon' !important;
-      background: #ffcc33;
+      background: #ffcc00;
 
-      border-color: #ffcc33;
+      border-color: #ffcc00;
       box-shadow: none;
       border-width: 1px; 
       color: black;
@@ -176,7 +176,7 @@ body {
   font-size: 120%; }
 
 body {
-  background: #ffcc33;
+  background: #ffcc00;
   color: #222;
   cursor: auto;
   font-family: Teko, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
